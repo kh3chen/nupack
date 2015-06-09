@@ -15,7 +15,7 @@ public class NuPackTest {
 
     @Test
     public void example3() {
-        assertEquals(npc.calculate("$6199.81", "4 people", "books"), "$13707.63");
+        assertEquals(npc.calculate("$12456.95", "4 people", "books"), "$13707.63");
     }
 
     @Test
